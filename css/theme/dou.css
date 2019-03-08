@@ -1,0 +1,6 @@
+body:after {
+  content: url(../../img/logo_dou.png);
+  position: fixed;
+  top: 6px;
+  right: 16px;
+}
