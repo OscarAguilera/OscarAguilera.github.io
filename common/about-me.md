@@ -15,7 +15,7 @@
 * DoU plans to double its operations this year.
 
 
-<!-- .slide: data-background="../../../img/LinkedIn-Groups.jpg" data-background-size="10% 10%" data-bakground-opacity= 1-->
+<!-- .slide: data-background="../../../img/LinkedIn-Groups.jpg" data-background-opacity= 1-->
 
 ### [Oscar Aguilera Huerta](https://www.linkedin.com/in/oscar-aguilera-huerta-6bb23761/)
 
