@@ -3,10 +3,10 @@
 ![dou](https://www.cloudbees.com/sites/default/files/20170704001638_logo_dou_1.png)
 
 
-![partners](../img/partners.png)
+![partners](../slides/iac/img/partners.png)
 
 
-![locations](../img/locations_dou.png)
+![locations](../slides/iac/img/locations_dou.png)
 
 
 ## DOU is one of the faster-growing startups of silicon valley.
