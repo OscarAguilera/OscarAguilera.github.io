@@ -22,4 +22,4 @@
 
 ## Continuos Integration / Continuos Delivery Team
 
-![sputnik](img/sputnik.png)
+![devops](../slides/devsecops/img/devops.jpg)
