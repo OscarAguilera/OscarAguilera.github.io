@@ -17,7 +17,7 @@
 
 <!-- .slide: data-background="../../../img/LinkedIn-Groups.jpg" data-background-size="25% 25%" -->
 
-## [Oscar Aguilera Huerta](https://www.linkedin.com/in/oscar-aguilera-huerta-6bb23761/)
+# [Oscar Aguilera Huerta](https://www.linkedin.com/in/oscar-aguilera-huerta-6bb23761/)
 
 
 ## Continuos Integration / Continuos Delivery Team
