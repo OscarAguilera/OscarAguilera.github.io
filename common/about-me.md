@@ -20,6 +20,6 @@
 ## [Oscar Aguilera Huerta](https://www.linkedin.com/in/oscar-aguilera-huerta-6bb23761/)
 
 
-## Innovation Team
+## Continuos Integration / Continuos Delivery Team
 
 ![sputnik](img/sputnik.png)
