@@ -3,10 +3,19 @@
 ![dou](https://www.cloudbees.com/sites/default/files/20170704001638_logo_dou_1.png)
 
 
-![partners](../slides/iac/img/partners.png)
+# Partners
+![docker](../iac/img/docker.png)<!-- .element height="20%" width="20%" -->
+![jenkins](../iac/img/jenkins.png)<!-- .element height="20%" width="20%" -->
+![hasicorp](../iac/img/hashicorp.png)<!-- .element height="20%" width="20%" -->
+![sap](../iac/img/sap.png)<!-- .element height="20%" width="20%" -->
+![chef](../iac/img/chef.png)<!-- .element height="20%" width="20%" -->
+![pagerduty](../iac/img/pagerduty.png)<!-- .element height="20%" width="20%" -->
 
 
-![locations](../slides/iac/img/locations_dou.png)
+# Locations
+
+![america](../iac/img/America.jpg)<!-- .element height="50%" width="50%" -->
+![india](../iac/img/Asia.jpg)<!-- .element height="50%" width="50%" -->
 
 
 ## DOU is one of the faster-growing startups of silicon valley.
@@ -22,4 +31,4 @@
 
 ## Continuos Integration / Continuos Delivery Team
 
-![devops](../slides/devsecops/img/devops.jpg)
+![devops](../slides/devsecops/img/devops.jpg)<!-- .element height="20%" width="50%" -->
