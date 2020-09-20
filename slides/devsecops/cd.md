@@ -3,6 +3,7 @@
 <p class="fragment fade-in-then-semi-out">Continuous delivery is a software engineering practice in which teams develop, build, test, and release software in short cycles. It depends on automation at every stage so that cycles can be both quick and reliable.</p>
 
 
+
 # CONTINUOS DELIVERY
 
 <p class="fragment fade-in-then-semi-out">With continuous delivery, you can decide to release daily, weekly, fortnightly, or whatever suits your business requirements. However, if you truly want to get the benefits of continuous delivery, you should deploy to production as early as possible to make sure that you release small batches, that are easy to troubleshoot in case of a problem.</p>
